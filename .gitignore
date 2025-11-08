@@ -1,0 +1,5 @@
+# binaries
+process1
+process2
+*.o
+.DS_Store
