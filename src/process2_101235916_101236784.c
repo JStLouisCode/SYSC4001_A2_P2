@@ -27,7 +27,7 @@ int main(void){
             printf("[Process 2] Cycle:%d\n", cycle);
 
         cycle++;
-        if(counter > 500){              // same stop rule as your code
+        if(counter > 500){              
             printf("[Process 2] Counter exceeded 500. Exit.\n");
             break;
         }
